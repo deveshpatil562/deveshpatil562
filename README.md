@@ -1,157 +1,135 @@
-<h1 align="center">Hi 👋, I'm Devesh Patil</h1>
-<h3 align="center">Linux Administrator | DevOps Engineer | Automation Enthusiast</h3>
+<!-- DEVOPS BANNER -->
 
 <p align="center">
-🚀 Building DevOps pipelines | 🐳 Containerization | ☁️ Cloud Infrastructure
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=220&section=header&text=Devesh%20Patil&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Linux%20Administrator%20%7C%20DevOps%20Engineer&descAlignY=58"/>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+<h1 align="center">Hi 👋, I'm Devesh Patil</h1>
 
-💻 Infrastructure Analyst (Linux Administrator – L2)  
-🔧 3+ Years of experience in Linux systems & infrastructure  
-🚀 Currently learning and building **DevOps automation projects**
+<h3 align="center">
+Linux Administrator → DevOps Engineer 🚀
+</h3>
 
-- 🔭 Currently working on **CI/CD pipelines using GitHub Actions**
-- 🌱 Learning **Docker, Kubernetes, and Cloud Infrastructure**
-- ⚡ Passionate about **automation and infrastructure reliability**
-- 📍 Based in India
-
----
-
-## 🌐 Connect With Me
-
-<p align="left">
-
-<a href="https://linkedin.com/in/YOUR-LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/deveshpatil562">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
+<p align="center">
+⚙️ Automation | ☁️ Cloud | 🐳 Containers | 🚀 CI/CD
 </p>
 
 ---
 
-# 🛠️ DevOps Tech Stack
+# 💻 Terminal
 
-### Operating Systems
+```bash
+$ whoami
+Devesh Patil
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![RHEL](https://img.shields.io/badge/RHEL-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+$ role
+Infrastructure Analyst (Linux Administrator - L2)
 
-### DevOps Tools
+$ experience
+3+ Years Linux Infrastructure
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+$ currently_learning
+Docker • Kubernetes • CI/CD • Cloud
 
-### Cloud
+$ focus
+Automation and DevOps Engineering
+🚀 About Me
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+💻 Infrastructure Analyst with 3+ years Linux administration experience
+🚀 Transitioning into DevOps Engineering
 
-### Programming & Scripting
+🔭 Currently building CI/CD pipelines with GitHub Actions
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+🌱 Learning Docker, Kubernetes, and AWS
 
----
+⚡ Passionate about automation and infrastructure reliability
 
-# 📦 Featured DevOps Projects
+📍 Based in India
 
-### 🚀 GitHub Actions CI/CD Pipeline
+🌐 Connect With Me
+<p align="center"> <a href="https://linkedin.com/in/YOUR-LINKEDIN"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://github.com/deveshpatil562"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/> </a> </p>
+🛠 DevOps Tech Stack
+<p align="center"> <img src="https://skillicons.dev/icons?i=linux,docker,aws,github,git,python,bash,flask" /> </p>
+Operating Systems
 
-End-to-end CI/CD pipeline with:
 
-- Reusable workflows
-- Automated testing
-- Docker image build
-- Deployment simulation
-- Scheduled health checks
 
-🔗 Repo  
+
+
+
+DevOps
+
+
+
+
+
+
+Cloud
+
+📦 Featured DevOps Projects
+🚀 GitHub Actions CI/CD Pipeline
+
+Production-style pipeline including:
+
+✔ Reusable workflows
+✔ Automated testing
+✔ Docker image build & push
+✔ Deployment simulation
+✔ Scheduled health checks
+
+🔗
 https://github.com/deveshpatil562/github-actions-capstone
 
----
-
-### 🐳 Dockerized Flask Application
+🐳 Dockerized Flask Application
 
 Containerized Flask app with:
 
-- Dockerfile
-- Health endpoint
-- CI/CD integration
+✔ Dockerfile
+✔ Health endpoint
+✔ CI/CD integration
 
----
+🌐 DevOps Portfolio Website
 
-### 🌐 DevOps Portfolio Website
+Personal portfolio built using:
 
-Personal portfolio built with:
+✔ Flask
+✔ GitHub API integration
+✔ Animated DevOps background
+✔ Visitor counter
 
-- Flask
-- GitHub API integration
-- Animated DevOps background
-- Live visitor counter
-
----
-
-# 📊 GitHub Statistics
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=deveshpatil562&show_icons=true&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com/?user=deveshpatil562&theme=tokyonight"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
+🏆 GitHub Trophies
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=deveshpatil562&theme=onedark&row=1&column=6"/> </p>
+📊 GitHub Statistics
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=deveshpatil562&show_icons=true&theme=tokyonight"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deveshpatil562&layout=compact&theme=tokyonight"/> </p>
+🔥 GitHub Streak
+<p align="center"> <img src="https://streak-stats.demolab.com/?user=deveshpatil562&theme=tokyonight"/> </p>
+📈 Contribution Graph
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=deveshpatil562&theme=tokyo-night"/>
+📚 DevOps Learning Journey
 
----
-
-# 📚 DevOps Learning Journey
-
-I am documenting my **DevOps learning journey with hands-on projects**.
+Documenting my hands-on DevOps journey through real projects.
 
 Topics covered:
 
-- Linux Administration
-- Docker Containerization
-- CI/CD Pipelines
-- GitHub Actions Automation
-- Cloud Infrastructure
+• Linux Administration
+• Docker Containerization
+• CI/CD Pipelines
+• GitHub Actions Automation
+• Cloud Infrastructure
 
----
+👀 Profile Visitors
 
-# 👀 Profile Visitors
+🎯 2026 DevOps Goals
 
-![Visitor Count](https://komarev.com/ghpvc/?username=deveshpatil562&color=blue)
+✔ Master Kubernetes
+✔ Build production-grade CI/CD pipelines
+✔ Deploy infrastructure using Terraform
+✔ Contribute to open-source DevOps tools
 
----
+<p align="center">
 
-# 🎯 2026 Goals
+⭐ Automating infrastructure, one pipeline at a time
 
-✔ Master Kubernetes  
-✔ Build production-grade CI/CD pipelines  
-✔ Deploy scalable cloud infrastructure  
-✔ Contribute to open-source DevOps tools  
-
----
-
-⭐ From [Devesh Patil](https://github.com/deveshpatil562)
+</p> ```
