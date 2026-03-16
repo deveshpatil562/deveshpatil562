@@ -1,90 +1,157 @@
-# 💫 Hi 👋, I'm Devesh Patil
-**Infrastructure Analyst || Linux Administrator || Aspiring DevOps & Cloud Engineer from India 🇮🇳**
+<h1 align="center">Hi 👋, I'm Devesh Patil</h1>
+<h3 align="center">Linux Administrator | DevOps Engineer | Automation Enthusiast</h3>
 
-Email Me 👉 ✉️ **deveshp562@gmail.com** For Collaboration / Projects / Opportunities 🚀
-
-- 🔭 **I’m currently working as:** Analyst III – Infrastructure Services @ DXC Technology
-- 🌱 **I’m currently learning:** Advanced DevOps, Kubernetes, CI/CD & Infrastructure as Code
-- 👯 **I’m looking to collaborate on:** Cloud Infrastructure & Automation Projects
-- 🤔 **I’m exploring:** Production-grade DevOps implementations & scalable systems
-- 💬 **Ask me about:** Linux Administration, AWS, Shell Scripting, Incident Management
-- 📫 **How to reach me:** deveshp562@gmail.com
-- 😄 **Pronouns:** He/Him
-- ⚡ **Fun fact:** I automate issues before they become incidents 😄
+<p align="center">
+🚀 Building DevOps pipelines | 🐳 Containerization | ☁️ Cloud Infrastructure
+</p>
 
 ---
 
-## 🏗️ Professional Snapshot
+## 👨‍💻 About Me
 
-✔️ 3+ Years Experience in Linux & UNIX Administration  
-✔️ Managing 200+ Production Servers with 99.9% uptime  
-✔️ Automated patching for 500+ applications  
-✔️ Reduced unauthorized login attempts by 50%  
-✔️ 99% Disaster Recovery success rate  
-✔️ Resolved 200+ monthly incidents via ServiceNow  
-✔️ Performance tuning using top, iostat, sar  
+💻 Infrastructure Analyst (Linux Administrator – L2)  
+🔧 3+ Years of experience in Linux systems & infrastructure  
+🚀 Currently learning and building **DevOps automation projects**
 
----
-
-## 🚀 Highlight Projects
-
-### 🔹 Linux System Automation & Health Monitoring Suite
-Built modular Bash framework for log rotation, service monitoring & automated diagnostics to improve production reliability.
-
-### 🔹 AWS EKS & Infrastructure Automation
-Provisioned scalable Kubernetes cluster using Amazon EKS & CloudFormation. Managed deployments using kubectl & AWS CLI.
-
-### 🔹 High-Availability Web Hosting (AWS)
-Deployed dynamic website using EC2, NGINX, ALB & Auto Scaling Group ensuring load balancing & high availability.
+- 🔭 Currently working on **CI/CD pipelines using GitHub Actions**
+- 🌱 Learning **Docker, Kubernetes, and Cloud Infrastructure**
+- ⚡ Passionate about **automation and infrastructure reliability**
+- 📍 Based in India
 
 ---
 
-# 💻 Tech Stack:
+## 🌐 Connect With Me
 
-### 🐧 Operating Systems
-![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
+<p align="left">
+
+<a href="https://linkedin.com/in/YOUR-LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/deveshpatil562">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
+
+---
+
+# 🛠️ DevOps Tech Stack
+
+### Operating Systems
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![RHEL](https://img.shields.io/badge/RHEL-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
-![CentOS](https://img.shields.io/badge/CentOS-262577?style=for-the-badge&logo=centos&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
-### ☁️ Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![EKS](https://img.shields.io/badge/Amazon_EKS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![CloudFormation](https://img.shields.io/badge/CloudFormation-FF4F8B?style=for-the-badge&logo=amazonaws&logoColor=white)
-![NGINX](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+### DevOps Tools
 
-### ⚙️ Scripting & Version Control
-![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-121013?style=for-the-badge&logo=github&logoColor=white)
 
-### 📊 Monitoring & Infrastructure
-LVM • RAID • TCP/IP • DNS • HTTP/HTTPS • Patch Management • Incident Management
+### Cloud
 
----
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+### Programming & Scripting
 
----
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br>
-![](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=dark&hide_border=false)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ---
 
-## 🌐 Connect With Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![GitHub](https://img.shields.io/badge/GitHub-121013?logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
+# 📦 Featured DevOps Projects
+
+### 🚀 GitHub Actions CI/CD Pipeline
+
+End-to-end CI/CD pipeline with:
+
+- Reusable workflows
+- Automated testing
+- Docker image build
+- Deployment simulation
+- Scheduled health checks
+
+🔗 Repo  
+https://github.com/deveshpatil562/github-actions-capstone
 
 ---
 
-### ✍️ DevOps Philosophy
-> “Reliable systems aren’t built by chance — they’re engineered with automation, monitoring, and discipline.”
+### 🐳 Dockerized Flask Application
+
+Containerized Flask app with:
+
+- Dockerfile
+- Health endpoint
+- CI/CD integration
 
 ---
 
-<!-- Proudly built by Devesh Patil 🚀 -->
+### 🌐 DevOps Portfolio Website
+
+Personal portfolio built with:
+
+- Flask
+- GitHub API integration
+- Animated DevOps background
+- Live visitor counter
+
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=deveshpatil562&show_icons=true&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com/?user=deveshpatil562&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=deveshpatil562&theme=tokyo-night"/>
+
+---
+
+# 📚 DevOps Learning Journey
+
+I am documenting my **DevOps learning journey with hands-on projects**.
+
+Topics covered:
+
+- Linux Administration
+- Docker Containerization
+- CI/CD Pipelines
+- GitHub Actions Automation
+- Cloud Infrastructure
+
+---
+
+# 👀 Profile Visitors
+
+![Visitor Count](https://komarev.com/ghpvc/?username=deveshpatil562&color=blue)
+
+---
+
+# 🎯 2026 Goals
+
+✔ Master Kubernetes  
+✔ Build production-grade CI/CD pipelines  
+✔ Deploy scalable cloud infrastructure  
+✔ Contribute to open-source DevOps tools  
+
+---
+
+⭐ From [Devesh Patil](https://github.com/deveshpatil562)
