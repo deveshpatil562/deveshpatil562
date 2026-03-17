@@ -13,23 +13,24 @@
 
 ---
 
-# Terminal
+## 💻 Terminal
 
-$ whoami  
-Devesh Patil  
+```bash
+$ whoami
+Devesh Patil
 
-$ role  
+$ role
 Infrastructure Analyst (Linux Administrator - L2)
 
-$ experience  
-3+ Years Linux Infrastructure
+$ experience
+3+ Years Linux Administration & Infrastructure
 
-$ currently_learning  
+$ currently_learning
 Docker • Kubernetes • CI/CD • AWS
 
-$ focus  
+$ focus
 Automation and DevOps Engineering
-
+```
 ---
 
 # About Me
