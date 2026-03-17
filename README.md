@@ -116,8 +116,9 @@ Flask portfolio website with GitHub API integration and visitor counter.
 
 ## 🐍 Contribution Snake
 
-![snake gif](https://github.com/deveshpatil562/deveshpatil562/blob/output/github-contribution-grid-snake.svg)
-
+<p align="center">
+<img src="https://github.com/deveshpatil562/deveshpatil562/blob/output/github-contribution-grid-snake.svg"/>
+</p>
 ---
 
 # Contribution Graph
